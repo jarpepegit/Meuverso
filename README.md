@@ -1,2 +1,3 @@
-# meuverso
-course material, interests, blogs, ideas
+# Meuverso
+course material, interests, blogs, ideas, etc
+
