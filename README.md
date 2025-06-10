@@ -19,6 +19,6 @@ This repository is organized into the following sections:
 Currently, my **GitBook documents** are stored privately. Select sections may be released publicly in the future.  
 
 ## 📞 Contact & Contributions  
-If you have suggestions or want to collaborate, feel free to reach out via **[email](mailto:your-email@domain.com)** or **[LinkedIn](https://www.linkedin.com/in/yourLinkedIn)**.  
+If you have suggestions or want to collaborate, feel free to reach out via **[email](mailto:jarpepe2@gmail.com)** or **[LinkedIn](www.linkedin.com/in/josé-antonio-agapito-ruiz-138a826)**.  
 
 ---
